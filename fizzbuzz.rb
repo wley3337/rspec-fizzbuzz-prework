@@ -1,5 +1,5 @@
 def fizzbuzz(new_num)
-  if(new_num/3)
+  if(new_num/3 == true)
       if(new_num/5)
         "FizzBuzz"
       else
