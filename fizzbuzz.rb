@@ -4,7 +4,7 @@ def fizzbuzz(new_num)
         "FizzBuzz"
   elsif(new_num % 3 == 0)
         "Fizz"
-      end
+      #end
   elsif (new_num % 5 == 0)
     "Buzz"
   else 
